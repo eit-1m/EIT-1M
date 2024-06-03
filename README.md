@@ -1,4 +1,4 @@
-## Hi there 👋
+## The EIT-1M dataset.
 
 <!--
 **eit-1m/EIT-1M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
